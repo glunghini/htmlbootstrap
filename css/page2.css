@@ -10828,3 +10828,19 @@ body {
   background: url(../imgs/blackbear.jpg) no-repeat center center fixed;
   background-size: cover;
 }
+
+p{
+  text-shadow: 
+                1px 1px 0 #000, /* Borde en rojo */
+                -1px -1px 0 #000, /* Borde en rojo */
+                1px -1px 0 #000, /* Borde en rojo */
+                -1px 1px 0 #000; /* Borde en rojo */
+}
+
+h1{
+  text-shadow: 
+  1px 1px 0 #000, /* Borde en rojo */
+  -1px -1px 0 #000, /* Borde en rojo */
+  1px -1px 0 #000, /* Borde en rojo */
+  -1px 1px 0 #000; /* Borde en rojo */
+}
